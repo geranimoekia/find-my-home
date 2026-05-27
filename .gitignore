@@ -1,0 +1,21 @@
+# Never commit these — they contain secrets
+.env
+auth_state.json
+
+# Output files
+*.json
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
