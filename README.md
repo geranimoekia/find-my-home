@@ -1,4 +1,11 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:C94B4B,100:4B134F&height=200&section=header&text=find-my-home&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Rental+Finder+for+Botswana&descAlignY=56&descAlign=50)
+
 # Find My Home 🏠
+
+> Stop scrolling Facebook groups manually. Find rental houses and flats across Botswana — scrapes Facebook Search and Marketplace, then uses Claude AI to parse messy posts into clean structured data.
+
+![Last Commit](https://img.shields.io/github/last-commit/geranimoekia/find-my-home?style=for-the-badge&color=0e75b6)
+![License](https://img.shields.io/github/license/geranimoekia/find-my-home?style=for-the-badge&color=brightgreen)
 
 Find rentals in Botswana fast — scrapes Facebook Search and Marketplace so you don't have to scroll through dozens of groups manually.
 
