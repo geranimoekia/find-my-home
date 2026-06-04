@@ -9,6 +9,20 @@ Find rentals in Botswana fast — scrapes Facebook Search and Marketplace so you
 - Uses Claude AI (Haiku) to parse messy informal posts into clean, structured data
 - Outputs: price (BWP), bedrooms, location, contact number, amenities
 
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-D4A820?style=for-the-badge&logo=anthropic&logoColor=black)
+![Facebook](https://img.shields.io/badge/Facebook_Scraper-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+
+| Tool | Purpose |
+|---|---|
+| **Python** | Core runtime |
+| **Playwright** | Headless browser automation for Facebook scraping |
+| **Claude AI (Haiku)** | Parses informal rental posts into structured JSON |
+| **Chromium** | Browser engine via Playwright |
+
 ## Setup
 
 ### 1. Install dependencies
