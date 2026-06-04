@@ -2,12 +2,6 @@
 
 Find rentals in Botswana fast — scrapes Facebook Search and Marketplace so you don't have to scroll through dozens of groups manually.
 
-## What it does
-
-- Searches Facebook posts across all groups, pages, and profiles for houses, flats, and rooms for rent in Botswana
-- Also scrapes Facebook Marketplace for Botswana cities
-- Uses Claude AI (Haiku) to parse messy informal posts into clean, structured data
-- Outputs: price (BWP), bedrooms, location, contact number, amenities
 
 ## Tech Stack
 
@@ -22,6 +16,14 @@ Find rentals in Botswana fast — scrapes Facebook Search and Marketplace so you
 | **Playwright** | Headless browser automation for Facebook scraping |
 | **Claude AI (Haiku)** | Parses informal rental posts into structured JSON |
 | **Chromium** | Browser engine via Playwright |
+
+## What it does
+
+- Searches Facebook posts across all groups, pages, and profiles for houses, flats, and rooms for rent in Botswana
+- Also scrapes Facebook Marketplace for Botswana cities
+- Uses Claude AI (Haiku) to parse messy informal posts into clean, structured data
+- Outputs: price (BWP), bedrooms, location, contact number, amenities
+
 
 ## Setup
 
