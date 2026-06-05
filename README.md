@@ -2,12 +2,12 @@
 
 # Find My Home 🏠
 
-> Stop scrolling Facebook groups manually. Find rental houses and flats across Botswana — scrapes Facebook Search and Marketplace, then uses Claude AI to parse messy posts into clean structured data.
+> Stop scrolling Facebook groups manually. Find rental houses and flats across Botswana - scrapes Facebook Search and Marketplace, then uses Claude AI to parse messy posts into clean structured data.
 
 ![Last Commit](https://img.shields.io/github/last-commit/geranimoekia/find-my-home?style=for-the-badge&color=0e75b6)
 ![License](https://img.shields.io/github/license/geranimoekia/find-my-home?style=for-the-badge&color=brightgreen)
 
-Find rentals in Botswana fast — scrapes Facebook Search and Marketplace so you don't have to scroll through dozens of groups manually.
+Find rentals in Botswana fast - scrapes Facebook Search and Marketplace so you don't have to scroll through dozens of groups manually.
 
 
 ## Tech Stack
@@ -61,7 +61,7 @@ Get a key at [console.anthropic.com](https://console.anthropic.com) (~$0.03 per 
 python main.py login
 ```
 
-A browser window opens — log in manually, then press Enter. Your session is saved to `auth_state.json` (never committed to git).
+A browser window opens - log in manually, then press Enter. Your session is saved to `auth_state.json` (never committed to git).
 
 ## Usage
 
@@ -75,7 +75,7 @@ python main.py search --query "2 bedroom flat Gaborone" --output listings.json
 # Scrape Facebook Marketplace
 python main.py marketplace --city Gaborone --output listings.json
 
-# Run everything — search + marketplace for all cities
+# Run everything - search + marketplace for all cities
 python main.py all --output listings.json
 
 # See the browser while it runs
@@ -111,6 +111,6 @@ Gaborone, Francistown, Maun, Kasane, Palapye, Serowe, Lobatse, Molepolole, Kanye
 
 ## Notes
 
-- `auth_state.json` and `.env` are in `.gitignore` — never committed
-- Scraping Facebook may violate their Terms of Service — use responsibly
+- `auth_state.json` and `.env` are in `.gitignore` - never committed
+- Scraping Facebook may violate their Terms of Service - use responsibly
 - Re-run `python main.py login` if your session expires
