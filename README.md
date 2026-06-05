@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:C94B4B,100:4B134F&height=200&section=header&text=find-my-home&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Rental+Finder+for+Botswana&descAlignY=56&descAlign=50)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:C94B4B,100:4B134F&height=200&text=find-my-home&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Rental+Finder+for+Botswana&descAlignY=56&descAlign=50)
 
 # Find My Home 🏠
 
